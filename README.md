@@ -2,16 +2,16 @@
 
 This the Online Banking System 
 
-# MENU
+ MENU
 
-# Create Account
+ Create Account
 
-# View Account Details
+ View Account Details
 
-# Deposit
+ Deposit
 
-# Withdraw
+ Withdraw
 
-# Exit 
+ Exit 
 
 this the function in the system I will add more function
